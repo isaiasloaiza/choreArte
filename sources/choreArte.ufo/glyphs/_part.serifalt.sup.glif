@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.serifalt.sup" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="377" y="392" type="line"/>
+      <point x="397" y="392" type="line"/>
+      <point x="410" y="415"/>
+      <point x="411" y="440"/>
+      <point x="411" y="469" type="curve"/>
+      <point x="410" y="470"/>
+      <point x="409" y="471"/>
+      <point x="408" y="472" type="curve"/>
+      <point x="343" y="458" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 23:26:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

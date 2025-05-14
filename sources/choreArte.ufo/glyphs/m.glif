@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="m" format="2">
+  <advance width="934"/>
+  <unicode hex="006D"/>
+  <outline>
+    <component base="_part.n" xOffset="108" identifier="DFCF7B60"/>
+    <component base="l.cv01" yScale="0.6763" xOffset="-17" yOffset="1" identifier="DEAF7215"/>
+    <component base="_part.serif_base" xScale="-1" xOffset="1006" identifier="6E41B5A1"/>
+    <component base="_part.n" xOffset="422" identifier="EE318B54"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 02:16:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6E41B5A1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DEAF7215</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DFCF7B60</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EE318B54</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Dosarte_Base/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

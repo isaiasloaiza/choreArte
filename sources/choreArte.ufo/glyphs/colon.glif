@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="224"/>
+  <unicode hex="003A"/>
+  <outline>
+    <component base="period" xScale="1.1" yScale="1.1"/>
+    <component base="period" xScale="1.1" yScale="1.1" yOffset="352"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

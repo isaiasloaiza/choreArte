@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="serifinferior" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="233" y="-9" type="line"/>
+      <point x="318" y="-9" type="line"/>
+      <point x="318" y="21" type="line"/>
+      <point x="287" y="37"/>
+      <point x="267" y="43"/>
+      <point x="233" y="46" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 23:26:47 +0000</string>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>EF Dosarte/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="X" format="2">
+  <advance width="720"/>
+  <unicode hex="0058"/>
+  <guideline x="358" y="646" angle="0"/>
+  <guideline x="128" y="666" angle="90"/>
+  <guideline x="396" y="53" angle="0"/>
+  <outline>
+    <contour>
+      <point x="522" y="0" type="line"/>
+      <point x="591" y="1" type="line"/>
+      <point x="590" y="51" type="line"/>
+      <point x="245" y="648" type="line"/>
+      <point x="244" y="701" type="line"/>
+      <point x="147" y="701" type="line"/>
+      <point x="147" y="648" type="line"/>
+    </contour>
+    <component base="_part.serif_base" yScale="0.9958" xOffset="-60"/>
+    <contour>
+      <point x="125" y="0" type="line"/>
+      <point x="188" y="0" type="line"/>
+      <point x="188" y="53" type="line"/>
+      <point x="550" y="649" type="line"/>
+      <point x="550" y="701" type="line"/>
+      <point x="526" y="701" type="line"/>
+      <point x="127" y="53" type="line"/>
+    </contour>
+    <component base="_part.serif_base" xScale="-1" xOffset="373"/>
+    <component base="_part.serif_base" xScale="-1" xOffset="776" yOffset="1"/>
+    <component base="_part.serif_base" yScale="-1" xOffset="-38" yOffset="701"/>
+    <component base="_part.serif_base" xScale="-1" yScale="-1" xOffset="429" yOffset="701"/>
+    <component base="_part.serif_base" xScale="-1" yScale="-1" xOffset="735" yOffset="701"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 23:26:47 +0000</string>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Dosarte_Base/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

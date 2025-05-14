@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j" format="2">
+  <advance width="300"/>
+  <unicode hex="006A"/>
+  <outline>
+    <component base="jdotless"/>
+    <component base="dotaccentcomb" xOffset="31"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 05:56:22 +0000</string>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Dosarte_nuevo/public.default</key>
+        <string>Dosarte_Bas_nuevo/public.default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

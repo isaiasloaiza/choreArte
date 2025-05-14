@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v.001" format="2">
+  <advance width="487"/>
+  <outline>
+    <contour>
+      <point x="220" y="0" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="482" y="500" type="line"/>
+      <point x="402" y="500" type="line"/>
+      <point x="273" y="17" type="line"/>
+      <point x="291" y="17" type="line"/>
+      <point x="141" y="500" type="line"/>
+      <point x="54" y="500" type="line"/>
+    </contour>
+    <component base="_part.serif_base" yScale="-1" xOffset="-105" yOffset="500"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 23:26:47 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Dosarte_BaseDIAGONALESLUZ_default/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

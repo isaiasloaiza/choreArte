@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="b" format="2">
+  <advance width="606"/>
+  <unicode hex="0062"/>
+  <outline>
+    <contour>
+      <point x="318" y="-1" type="curve" smooth="yes"/>
+      <point x="468" y="-1"/>
+      <point x="546" y="134"/>
+      <point x="546" y="250" type="curve" smooth="yes"/>
+      <point x="546" y="390"/>
+      <point x="489" y="509"/>
+      <point x="361" y="509" type="curve" smooth="yes"/>
+      <point x="276" y="509"/>
+      <point x="223" y="480"/>
+      <point x="193" y="451" type="curve"/>
+      <point x="207" y="417" type="line"/>
+      <point x="222" y="440"/>
+      <point x="284" y="461"/>
+      <point x="319" y="461" type="curve" smooth="yes"/>
+      <point x="415" y="461"/>
+      <point x="451" y="418"/>
+      <point x="451" y="231" type="curve" smooth="yes"/>
+      <point x="451" y="111"/>
+      <point x="426" y="53"/>
+      <point x="356" y="53" type="curve" smooth="yes"/>
+      <point x="292" y="53"/>
+      <point x="255" y="75"/>
+      <point x="210" y="96" type="curve"/>
+      <point x="125" y="63" type="line"/>
+      <point x="168" y="35"/>
+      <point x="234" y="-1"/>
+    </contour>
+    <component base="_part.fuste" yScale="0.96" yOffset="63"/>
+    <component base="_part.serif_top" xOffset="-60" yOffset="249"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 23:26:47 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

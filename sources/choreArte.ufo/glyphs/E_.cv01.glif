@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E.cv01" format="2">
+  <advance width="700"/>
+  <outline>
+    <component base="_part.fuste2" yScale="1.0169" identifier="AF341441"/>
+    <component base="_part.inferior" xOffset="-9" identifier="0D81AC3E"/>
+    <component base="_part.medio" xOffset="-9" identifier="1C3C26B6"/>
+    <component base="_part.superior" identifier="48A413EE"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 06:15:52 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0D81AC3E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>1C3C26B6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>48A413EE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>AF341441</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>EF Dosarte/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

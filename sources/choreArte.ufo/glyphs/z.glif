@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z" format="2">
+  <advance width="473"/>
+  <unicode hex="007A"/>
+  <outline>
+    <contour>
+      <point x="433" y="-1" type="line"/>
+      <point x="433" y="54" type="line"/>
+      <point x="140" y="54" type="line"/>
+      <point x="430" y="471" type="line"/>
+      <point x="415" y="500" type="line"/>
+      <point x="44" y="500" type="line"/>
+      <point x="44" y="451" type="line"/>
+      <point x="322" y="448" type="line"/>
+      <point x="315" y="464" type="line"/>
+      <point x="40" y="42" type="line"/>
+      <point x="52" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="44" y="309" type="line"/>
+      <point x="75" y="309" type="line"/>
+      <point x="123" y="451" type="line"/>
+      <point x="44" y="451" type="line"/>
+    </contour>
+    <contour>
+      <point x="354" y="54" type="line"/>
+      <point x="433" y="54" type="line"/>
+      <point x="433" y="196" type="line"/>
+      <point x="402" y="196" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 23:26:47 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Dosarte_BaseDIAGONALESLUZ_default/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

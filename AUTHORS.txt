@@ -1,0 +1,21 @@
+# This is the official list of project authors for copyright purposes.
+# This file is distinct from the CONTRIBUTORS.txt file.
+# See the latter for an explanation.
+# 
+# Names should be added to this file as:
+# Name or Organization <email address>
+
+Alphabetical list
+
+Alexis Hernández <alexisoa@live.com>
+Ana Patricia Rivero <anapatriciarisa23@gmail.com>
+Andramari Rojas <andramari.rojas@gmail.com>
+Ariel Martínez <arielmh@hotmail.com>
+Arlette Merlo <arlette.mcarrasco@gmail.com>
+Ceci Álvarez del Castillo <c.alvarezdelcastillo@unarte.edu.mxv>
+Charolet <alondracharolet@gmail.com>
+Jennifer Peralta <j.peralta@unarte.edu.mx>
+Jesús Williams <wdj.jimenez@uanrte.edu.mx>
+Karina Ramos <ka.ramos@unarte.edu.mx>
+Luz Torres <lp.torres@unarte.edu.mx  >
+Xa Rodríguez <xaretrodri@hotmail.com>

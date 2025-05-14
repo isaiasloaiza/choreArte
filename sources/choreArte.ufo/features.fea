@@ -1,0 +1,45 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+feature aalt {
+# automatic
+feature cv01;
+feature cv02;
+} aalt;
+
+feature ccmp {
+# automatic
+lookup ccmp_DFLT_1 {
+	@CombiningTopAccents = [acutecomb dieresiscomb dotaccentcomb tildecomb];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_DFLT_1;
+} ccmp;
+
+feature dlig {
+# automatic
+lookupflag IgnoreMarks;
+sub p a n a u n a r t e by p_a_n_a_u_n_a_r_t_e;
+sub u n i l o g o by u_n_i_l_o_g_o;
+} dlig;
+
+feature cv01 {
+# automatic
+sub E by E.cv01;
+sub F by F.cv01;
+sub J by J.cv01;
+sub c by c.cv01;
+sub f by f.cv01;
+sub j by j.cv01;
+sub l by l.cv01;
+} cv01;
+
+feature cv02 {
+# automatic
+sub c by c.cv02;
+sub f by f.cv02;
+sub h by h.cv02;
+sub l by l.cv02;
+} cv02;
+

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblleft" format="2">
+  <advance width="238"/>
+  <unicode hex="201C"/>
+  <outline>
+    <component base="quoteleft" xScale="0.9877" xyScale="-0.1564" yScale="0.9877" yxScale="0.1564" xOffset="-94" yOffset="26"/>
+    <component base="quoteleft" xScale="0.9217" xyScale="-0.146" yScale="0.9217" yxScale="0.146" xOffset="23" yOffset="54"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 05:55:33 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0.06,0.6,0.98,1</string>
+    </dict>
+  </lib>
+</glyph>

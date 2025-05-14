@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w" format="2">
+  <advance width="826"/>
+  <unicode hex="0077"/>
+  <guideline x="759" y="514" angle="0"/>
+  <guideline x="321" y="461" angle="0"/>
+  <guideline x="599" y="101" angle="0"/>
+  <guideline x="387" y="33" angle="0"/>
+  <outline>
+    <contour>
+      <point x="557" y="2" type="line"/>
+      <point x="635" y="35" type="line"/>
+      <point x="751" y="461" type="line"/>
+      <point x="751" y="514" type="line"/>
+      <point x="697" y="514" type="line"/>
+      <point x="697" y="460" type="line"/>
+      <point x="606" y="107" type="line"/>
+      <point x="475" y="461" type="line"/>
+      <point x="475" y="514" type="line"/>
+      <point x="384" y="514" type="line"/>
+      <point x="384" y="461" type="line"/>
+    </contour>
+    <contour>
+      <point x="247" y="3" type="line"/>
+      <point x="326" y="37" type="line"/>
+      <point x="433" y="448" type="line"/>
+      <point x="384" y="462" type="line"/>
+      <point x="296" y="110" type="line"/>
+      <point x="166" y="461" type="line"/>
+      <point x="166" y="514" type="line"/>
+      <point x="75" y="514" type="line"/>
+      <point x="75" y="461" type="line"/>
+    </contour>
+    <component base="_part.serif_base" yScale="-1" xOffset="-110" yOffset="514"/>
+    <component base="_part.serif_base" xScale="-1" yScale="-1" xOffset="351" yOffset="514"/>
+    <component base="_part.serif_base" yScale="-1" xOffset="199" yOffset="514"/>
+    <component base="_part.serif_base" xScale="-1" yScale="-1" xOffset="660" yOffset="514"/>
+    <component base="_part.serif_base" yScale="-1" xOffset="511" yOffset="514"/>
+    <component base="_part.serif_base" xScale="-1" yScale="-1" xOffset="936" yOffset="514"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 23:26:47 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Dosarte_Base/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

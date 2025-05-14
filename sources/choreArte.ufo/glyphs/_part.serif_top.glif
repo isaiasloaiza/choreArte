@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.serif_top" format="2">
+  <advance width="390"/>
+  <outline>
+    <contour>
+      <point x="270" y="435" type="line"/>
+      <point x="270" y="510" type="line"/>
+      <point x="222" y="503"/>
+      <point x="176" y="494"/>
+      <point x="120" y="480" type="curve"/>
+      <point x="120" y="450" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 23:26:47 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Dosarte/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="700"/>
+  <unicode hex="0045"/>
+  <outline>
+    <component base="_part.fuste2" identifier="07864012"/>
+    <component base="_part.inferior" xOffset="-9" identifier="2169F0D8"/>
+    <component base="_part.medio" xOffset="-9" identifier="B4D8B6B4"/>
+    <component base="_part.superior" yOffset="-12" identifier="AB9DB9B3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 02:16:06 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>07864012</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>2169F0D8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>AB9DB9B3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B4D8B6B4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>EF Dosarte/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

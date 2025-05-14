@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H" format="2">
+  <advance width="775"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="220" y="330" type="line"/>
+      <point x="550" y="330" type="line"/>
+      <point x="550" y="380" type="line"/>
+      <point x="220" y="380" type="line"/>
+    </contour>
+    <component base="I"/>
+    <component base="I" xOffset="395"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 23:26:47 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>I</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>I</string>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Dosarte/Dosarte/public.background</key>
+        <string>Dosarte/public.background</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

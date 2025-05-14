@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="990"/>
+  <unicode hex="0057"/>
+  <guideline x="383" y="679" angle="0"/>
+  <guideline x="651" y="640" angle="0"/>
+  <guideline x="662" y="646" angle="0"/>
+  <guideline x="770" y="152" angle="0"/>
+  <guideline x="944" y="-1" angle="0"/>
+  <guideline x="718" y="30" angle="0"/>
+  <guideline x="222" y="711" angle="90"/>
+  <outline>
+    <contour>
+      <point x="632" y="6" type="line"/>
+      <point x="689" y="38" type="line"/>
+      <point x="865" y="647" type="line"/>
+      <point x="865" y="700" type="line"/>
+      <point x="812" y="700" type="line"/>
+      <point x="812" y="647" type="line"/>
+      <point x="674" y="160" type="line"/>
+      <point x="497" y="642" type="line"/>
+      <point x="497" y="701" type="line"/>
+      <point x="403" y="701" type="line"/>
+      <point x="403" y="644" type="line"/>
+    </contour>
+    <contour>
+      <point x="298" y="3" type="line"/>
+      <point x="339" y="36" type="line"/>
+      <point x="487" y="561" type="line"/>
+      <point x="440" y="578" type="line"/>
+      <point x="326" y="160" type="line"/>
+      <point x="157" y="647" type="line"/>
+      <point x="155" y="701" type="line"/>
+      <point x="65" y="701" type="line"/>
+      <point x="65" y="645" type="line"/>
+    </contour>
+    <component base="_part.serif_base" yScale="-1" xOffset="-120" yOffset="701"/>
+    <component base="_part.serif_base" xScale="-1" yScale="-1" xOffset="340" yOffset="701"/>
+    <component base="_part.serif_base" yScale="-1" xOffset="218" yOffset="701"/>
+    <component base="_part.serif_base" xScale="-1" yScale="-1" xOffset="682" yOffset="701"/>
+    <component base="_part.serif_base" yScale="-1" xOffset="627" yOffset="700"/>
+    <component base="_part.serif_base" xScale="-1" yScale="-1" xOffset="1050" yOffset="700"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 23:26:47 +0000</string>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Dosarte_Base/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

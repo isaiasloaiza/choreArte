@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
+  <advance width="580"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="247" y="0" type="line"/>
+      <point x="337" y="0" type="line"/>
+      <point x="330" y="650" type="line"/>
+      <point x="247" y="650" type="line"/>
+    </contour>
+    <contour>
+      <point x="162" y="0" type="line"/>
+      <point x="258" y="0" type="line"/>
+      <point x="247" y="60" type="line"/>
+      <point x="211" y="52"/>
+      <point x="191" y="45"/>
+      <point x="158" y="30" type="curve"/>
+    </contour>
+    <contour>
+      <point x="326" y="0" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="426" y="30" type="line"/>
+      <point x="393" y="45"/>
+      <point x="373" y="52"/>
+      <point x="337" y="60" type="curve"/>
+    </contour>
+    <contour>
+      <point x="32" y="535" type="line"/>
+      <point x="62" y="535" type="line"/>
+      <point x="85" y="596"/>
+      <point x="99" y="639"/>
+      <point x="112" y="700" type="curve"/>
+      <point x="32" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="49" y="650" type="line"/>
+      <point x="536" y="650" type="line"/>
+      <point x="536" y="700" type="line"/>
+      <point x="49" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="521" y="535" type="curve"/>
+      <point x="551" y="535" type="line"/>
+      <point x="551" y="700" type="line"/>
+      <point x="476" y="700" type="line"/>
+      <point x="486" y="641"/>
+      <point x="497" y="597"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 23:26:47 +0000</string>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Dosarte_nuevo/public.default</key>
+        <string>Dosarte_Bas_nuevo/public.default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

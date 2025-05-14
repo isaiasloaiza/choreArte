@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.n" format="2">
+  <advance width="499"/>
+  <outline>
+    <contour>
+      <point x="314" y="0" type="line"/>
+      <point x="399" y="0" type="line"/>
+      <point x="399" y="370" type="line" smooth="yes"/>
+      <point x="399" y="458"/>
+      <point x="352" y="515"/>
+      <point x="266" y="515" type="curve" smooth="yes"/>
+      <point x="187" y="515"/>
+      <point x="117" y="460"/>
+      <point x="75" y="400" type="curve"/>
+      <point x="75" y="356" type="line"/>
+      <point x="125" y="407"/>
+      <point x="194" y="440"/>
+      <point x="250" y="440" type="curve" smooth="yes"/>
+      <point x="295" y="440"/>
+      <point x="314" y="420"/>
+      <point x="314" y="370" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 23:26:47 +0000</string>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Dosarte/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

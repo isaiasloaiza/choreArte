@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L" format="2">
+  <advance width="575"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="125" y="0" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="210" y="700" type="line"/>
+      <point x="125" y="700" type="line"/>
+    </contour>
+    <component base="_part.serif_base" xOffset="-60"/>
+    <contour>
+      <point x="200" y="0" type="line"/>
+      <point x="526" y="0" type="line"/>
+      <point x="526" y="54" type="line"/>
+      <point x="200" y="54" type="line"/>
+    </contour>
+    <contour>
+      <point x="458" y="54" type="line"/>
+      <point x="526" y="54" type="line"/>
+      <point x="526" y="129" type="line"/>
+      <point x="499" y="129" type="line"/>
+    </contour>
+    <component base="_part.serif_top" xOffset="-60" yOffset="250"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 23:26:47 +0000</string>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Dosarte_Base/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

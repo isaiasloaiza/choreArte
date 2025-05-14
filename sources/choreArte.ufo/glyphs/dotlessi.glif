@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi" format="2">
+  <advance width="335"/>
+  <unicode hex="0131"/>
+  <anchor x="168" y="500" name="top"/>
+  <anchor x="168" y="0" name="bottom"/>
+  <anchor x="285" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="125" y="0" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="210" y="450" type="line"/>
+      <point x="125" y="450" type="line"/>
+    </contour>
+    <component base="_part.serif_base" xOffset="-60"/>
+    <component base="_part.serif_base" xScale="-1" xOffset="395"/>
+    <component base="_part.serif_top" xOffset="-60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 23:26:47 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>l</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n" format="2">
+  <advance width="639"/>
+  <unicode hex="006E"/>
+  <outline>
+    <contour>
+      <point x="108" y="1" type="line"/>
+      <point x="193" y="1" type="line"/>
+      <point x="193" y="474.40482" type="line"/>
+      <point x="108" y="474.40482" type="line"/>
+    </contour>
+    <component base="_part.serif_base" xScale="-1" xOffset="692"/>
+    <component base="_part.serif_top" xOffset="-77" yOffset="5"/>
+    <component base="_part.n" xOffset="108"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 23:26:47 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Dosarte_Base/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

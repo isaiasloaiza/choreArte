@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.fuste2" format="2">
+  <advance width="700"/>
+  <guideline x="334" y="712" angle="0" name="a" identifier="a"/>
+  <guideline x="335" y="658" angle="0" name="a"/>
+  <guideline x="336" y="679" angle="0" name="a"/>
+  <guideline x="304" y="384" angle="0" name="a"/>
+  <guideline x="358" y="459" angle="0" name="a"/>
+  <guideline x="358" y="330" angle="0" name="a"/>
+  <guideline x="362" y="252" angle="0" name="a"/>
+  <guideline x="308" y="42" angle="0" name="a"/>
+  <guideline x="380" y="165" angle="0" name="a"/>
+  <guideline x="451" y="-12" angle="0" name="a"/>
+  <guideline x="90" y="140" angle="90" name="b" identifier="b"/>
+  <guideline x="174" y="129" angle="90" name="b"/>
+  <guideline x="273" y="127" angle="90" name="b"/>
+  <guideline x="510" y="130" angle="90" name="b"/>
+  <guideline x="588" y="134" angle="90" name="b"/>
+  <guideline x="599" y="134" angle="90" name="b"/>
+  <guideline x="442" y="218" angle="90" name="b"/>
+  <guideline x="538" y="486" angle="90" name="b"/>
+  <guideline x="577" y="501" angle="90" name="b"/>
+  <guideline x="568" y="505" angle="90" name="b"/>
+  <guideline x="561" y="345" angle="90" name="b"/>
+  <outline>
+    <contour>
+      <point x="174" y="-12" type="line"/>
+      <point x="265" y="-12" type="line"/>
+      <point x="264" y="700" type="line"/>
+      <point x="174" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="-12" type="line"/>
+      <point x="174" y="-12" type="line"/>
+      <point x="174" y="42" type="line"/>
+      <point x="155" y="40"/>
+      <point x="110" y="29"/>
+      <point x="90" y="21" type="curve"/>
+    </contour>
+    <contour>
+      <point x="174" y="-12" type="move"/>
+    </contour>
+    <contour>
+      <point x="174" y="646" type="curve"/>
+      <point x="174" y="700" type="line"/>
+      <point x="90" y="700" type="line"/>
+      <point x="90" y="667" type="line"/>
+      <point x="110" y="659"/>
+      <point x="155" y="648"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 23:26:47 +0000</string>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>EF Dosarte/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

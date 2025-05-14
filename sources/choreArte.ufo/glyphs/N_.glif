@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="795"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="539" y="0" type="line"/>
+      <point x="640" y="0" type="line"/>
+      <point x="640" y="0" type="line"/>
+      <point x="205" y="700" type="line"/>
+      <point x="205" y="530" type="line"/>
+    </contour>
+    <component base="serifHH" xScale="-1" xOffset="235"/>
+    <contour>
+      <point x="135" y="0" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="205" y="530" type="line"/>
+      <point x="205" y="534" type="line"/>
+      <point x="205" y="555" type="line"/>
+      <point x="205" y="700" type="line"/>
+      <point x="135" y="700" type="line"/>
+    </contour>
+    <component base="serifHH" xOffset="105"/>
+    <component base="serifHH" xScale="-1" yScale="-1" xOffset="235" yOffset="700"/>
+    <contour>
+      <point x="570" y="0" type="line"/>
+      <point x="640" y="0" type="line"/>
+      <point x="640" y="700" type="line"/>
+      <point x="570" y="700" type="line"/>
+      <point x="570" y="109" type="line"/>
+    </contour>
+    <component base="serifHH" xScale="-1" yScale="-1" xOffset="670" yOffset="700"/>
+    <component base="serifHH" yScale="-1" xOffset="540" yOffset="700"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-14 23:26:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

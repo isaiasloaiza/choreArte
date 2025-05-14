@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb" format="2">
+  <advance width="413"/>
+  <unicode hex="0308"/>
+  <anchor x="207" y="500" name="_top"/>
+  <anchor x="207" y="749" name="top"/>
+  <outline>
+    <component base="dotaccentcomb"/>
+    <component base="dotaccentcomb" xOffset="196" yOffset="7" identifier="ABAC27AF"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>ABAC27AF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
